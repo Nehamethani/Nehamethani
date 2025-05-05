@@ -8,7 +8,7 @@
 - 💬 Ask me about **API integrations, cloud platforms, or developer life**
 - 🎯 Goals: **AZ-204 Certified | Build exciting side projects**
 - 💖 Passionate about: **Tech, fitness, books**
-- 📫 Reach me at: **nehaxmethani@gmail.com**
+- 📫 Reach me at: **nehamethani54@gmail.com**
 - ✨ Fun fact: *I dream of starting my own business and traveling the world!*
 
 ---
