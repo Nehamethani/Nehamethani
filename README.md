@@ -27,14 +27,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NehaMethani&show_icons=true&theme=radical" alt="Neha's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NehaMethani&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ### ✨ Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-methani/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehamethani54@gmail.com)
