@@ -7,7 +7,7 @@
 - 🌱 Exploring **DSA, System Design, and Competitive Programming** in C++
 - 💬 Ask me about **API integrations, cloud platforms, or developer life**
 - 🎯 Goals: **AZ-204 Certified | Build exciting side projects**
-- 💖 Passionate about: **Tech, fitness, books, and building a future with love**
+- 💖 Passionate about: **Tech, fitness, books**
 - 📫 Reach me at: **nehaxmethani@gmail.com**
 - ✨ Fun fact: *I dream of starting my own business and traveling the world!*
 
