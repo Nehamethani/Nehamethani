@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Neha Methani</h1>
-<h3 align="center">💻 Software Engineer | 🚀 Tech Explorer | 💡 Lifelong Learner</h3>
+<h3 align="center">💻 Software Engineer | 💡 Lifelong Learner</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🔭 I’m currently working with **MuleSoft & Oracle Integration Cloud**
-- 🌱 Exploring **DSA, System Design, and Competitive Programming** in C++
-- 💬 Ask me about **API integrations, cloud platforms, or developer life**
-- 🎯 Goals: **AZ-204 Certified | Build exciting side projects**
+- 🌱 Exploring **DSA, System Design, and Competitive Programming** 
+- 🎯 Goals: **Build exciting side projects**
 - 💖 Passionate about: **Tech, fitness, books**
 - 📫 Reach me at: **nehamethani54@gmail.com**
 - ✨ Fun fact: *I dream of starting my own business and traveling the world!*
